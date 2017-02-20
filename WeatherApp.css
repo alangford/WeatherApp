@@ -1,0 +1,64 @@
+body {
+  background-image: url("http://www.siwallpaperhd.com/wp-content/uploads/2015/06/awesome_weather_wallpaper_hd_4.jpg")
+}
+
+.mainheader {
+  text-align: center;
+  margin-top:5%;
+  
+}
+.weatherbox {
+  margin-top: 10%;
+  margin-right: 20%;
+  margin-bottom:20%;
+  margin-left:20%;
+  height:400px;
+  background-color: #4a5ead;
+  border-radius: 20%;
+}
+.text-center {
+  text-align:center;
+}
+.div-pad {
+  padding-top: 20px;
+}
+.button {
+  background-color:#6378AD;
+  border-color:#4a5ead;
+  color:white;
+  
+  border-radius:30%;
+}
+.div-pad1 {
+  padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.developedby {
+  text-align:center;
+  color: #ffffff;
+}
+.developedbya {
+  text-decoration: none;
+  color: #c6deff;
+}
